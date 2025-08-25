@@ -19,8 +19,6 @@ ul {
   list-style-type: none;
 }
 
-
-/* Remplace background-image afin que l'ensemble de mes blocks restent dessus lors du redimentionnement (En cours de test ^^) */
 .image {
   width: 100%;
   height: 100%;
@@ -76,7 +74,7 @@ footer {
 .button {
   grid-row: 3/4;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   text-decoration: none;
 }
 
@@ -100,6 +98,11 @@ a:hover {
 }
 .button-footer3 {
   grid-column: 3/4;
+  text-align: center;
+  background-color: #303030;
+}
+.button-footer4 {
+  grid-column: 4/5;
   text-align: center;
   background-color: #303030;
 }
