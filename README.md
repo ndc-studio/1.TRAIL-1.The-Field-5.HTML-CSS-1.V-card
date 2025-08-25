@@ -36,8 +36,7 @@ racine/
 
 ### 🎮 Demo
 ![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)
-- [→ Click here ←](https://m-stephan.github.io/1.TRAIL-1.The-Field-7.Timeout-Intervals/)
-- You can wath the render of refactored version [Here](https://m-stephan.github.io/1.TRAIL-1.The-Field-5.HTML-CSS-1.V-card/)
+- [→ Click here ←](https://m-stephan.github.io/1.TRAIL-1.The-Field-5.HTML-CSS-1.V-card/)
 
 
 ## 👤 Contact
